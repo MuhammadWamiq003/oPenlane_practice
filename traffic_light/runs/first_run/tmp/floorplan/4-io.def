@@ -1,0 +1,164 @@
+VERSION 5.8 ;
+DIVIDERCHAR "/" ;
+BUSBITCHARS "[]" ;
+DESIGN light ;
+UNITS DISTANCE MICRONS 1000 ;
+DIEAREA ( 0 0 ) ( 200000 200000 ) ;
+ROW ROW_0 unithd 5520 10880 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_1 unithd 5520 13600 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_2 unithd 5520 16320 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_3 unithd 5520 19040 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_4 unithd 5520 21760 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_5 unithd 5520 24480 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_6 unithd 5520 27200 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_7 unithd 5520 29920 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_8 unithd 5520 32640 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_9 unithd 5520 35360 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_10 unithd 5520 38080 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_11 unithd 5520 40800 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_12 unithd 5520 43520 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_13 unithd 5520 46240 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_14 unithd 5520 48960 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_15 unithd 5520 51680 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_16 unithd 5520 54400 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_17 unithd 5520 57120 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_18 unithd 5520 59840 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_19 unithd 5520 62560 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_20 unithd 5520 65280 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_21 unithd 5520 68000 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_22 unithd 5520 70720 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_23 unithd 5520 73440 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_24 unithd 5520 76160 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_25 unithd 5520 78880 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_26 unithd 5520 81600 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_27 unithd 5520 84320 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_28 unithd 5520 87040 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_29 unithd 5520 89760 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_30 unithd 5520 92480 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_31 unithd 5520 95200 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_32 unithd 5520 97920 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_33 unithd 5520 100640 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_34 unithd 5520 103360 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_35 unithd 5520 106080 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_36 unithd 5520 108800 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_37 unithd 5520 111520 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_38 unithd 5520 114240 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_39 unithd 5520 116960 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_40 unithd 5520 119680 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_41 unithd 5520 122400 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_42 unithd 5520 125120 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_43 unithd 5520 127840 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_44 unithd 5520 130560 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_45 unithd 5520 133280 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_46 unithd 5520 136000 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_47 unithd 5520 138720 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_48 unithd 5520 141440 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_49 unithd 5520 144160 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_50 unithd 5520 146880 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_51 unithd 5520 149600 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_52 unithd 5520 152320 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_53 unithd 5520 155040 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_54 unithd 5520 157760 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_55 unithd 5520 160480 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_56 unithd 5520 163200 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_57 unithd 5520 165920 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_58 unithd 5520 168640 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_59 unithd 5520 171360 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_60 unithd 5520 174080 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_61 unithd 5520 176800 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_62 unithd 5520 179520 N DO 410 BY 1 STEP 460 0 ;
+ROW ROW_63 unithd 5520 182240 FS DO 410 BY 1 STEP 460 0 ;
+ROW ROW_64 unithd 5520 184960 N DO 410 BY 1 STEP 460 0 ;
+TRACKS X 230 DO 435 STEP 460 LAYER li1 ;
+TRACKS Y 170 DO 588 STEP 340 LAYER li1 ;
+TRACKS X 170 DO 588 STEP 340 LAYER met1 ;
+TRACKS Y 170 DO 588 STEP 340 LAYER met1 ;
+TRACKS X 230 DO 435 STEP 460 LAYER met2 ;
+TRACKS Y 230 DO 435 STEP 460 LAYER met2 ;
+TRACKS X 340 DO 294 STEP 680 LAYER met3 ;
+TRACKS Y 340 DO 294 STEP 680 LAYER met3 ;
+TRACKS X 460 DO 217 STEP 920 LAYER met4 ;
+TRACKS Y 460 DO 217 STEP 920 LAYER met4 ;
+TRACKS X 1700 DO 59 STEP 3400 LAYER met5 ;
+TRACKS Y 1700 DO 59 STEP 3400 LAYER met5 ;
+COMPONENTS 26 ;
+    - _17_ sky130_fd_sc_hd__and2b_2 ;
+    - _18_ sky130_fd_sc_hd__buf_1 ;
+    - _19_ sky130_fd_sc_hd__and2b_2 ;
+    - _20_ sky130_fd_sc_hd__buf_1 ;
+    - _21_ sky130_fd_sc_hd__nor2_2 ;
+    - _22_ sky130_fd_sc_hd__nand2_2 ;
+    - _23_ sky130_fd_sc_hd__a21o_2 ;
+    - _24_ sky130_fd_sc_hd__a21boi_2 ;
+    - _25_ sky130_fd_sc_hd__nor2_2 ;
+    - _26_ sky130_fd_sc_hd__and2b_2 ;
+    - _27_ sky130_fd_sc_hd__buf_1 ;
+    - _28_ sky130_fd_sc_hd__and2b_2 ;
+    - _29_ sky130_fd_sc_hd__buf_1 ;
+    - _30_ sky130_fd_sc_hd__nor2_2 ;
+    - _31_ sky130_fd_sc_hd__or2_2 ;
+    - _32_ sky130_fd_sc_hd__and3b_2 ;
+    - _33_ sky130_fd_sc_hd__buf_1 ;
+    - _34_ sky130_fd_sc_hd__dfxtp_2 ;
+    - _35_ sky130_fd_sc_hd__dfxtp_2 ;
+    - _36_ sky130_fd_sc_hd__dlxtn_1 ;
+    - _37_ sky130_fd_sc_hd__dlxtn_1 ;
+    - _38_ sky130_fd_sc_hd__dlxtn_1 ;
+    - _39_ sky130_fd_sc_hd__dlxtn_1 ;
+    - _40_ sky130_fd_sc_hd__dlxtn_1 ;
+    - _41_ sky130_fd_sc_hd__dfxtp_2 ;
+    - _42_ sky130_fd_sc_hd__dfxtp_2 ;
+END COMPONENTS
+PINS 5 ;
+    - Green + NET Green + DIRECTION OUTPUT + USE SIGNAL
+      + PORT
+        + LAYER met2 ( -140 -2000 ) ( 140 2000 )
+        + PLACED ( 106490 198000 ) N ;
+    - Red + NET Red + DIRECTION OUTPUT + USE SIGNAL
+      + PORT
+        + LAYER met2 ( -140 -2000 ) ( 140 2000 )
+        + PLACED ( 93610 198000 ) N ;
+    - Yellow + NET Yellow + DIRECTION OUTPUT + USE SIGNAL
+      + PORT
+        + LAYER met2 ( -140 -2000 ) ( 140 2000 )
+        + PLACED ( 100050 198000 ) N ;
+    - clk + NET clk + DIRECTION INPUT + USE SIGNAL
+      + PORT
+        + LAYER met2 ( -140 -2000 ) ( 140 2000 )
+        + PLACED ( 96830 198000 ) N ;
+    - rst + NET rst + DIRECTION INPUT + USE SIGNAL
+      + PORT
+        + LAYER met2 ( -140 -2000 ) ( 140 2000 )
+        + PLACED ( 103270 198000 ) N ;
+END PINS
+NETS 28 ;
+    - Green ( PIN Green ) ( _38_ Q ) + USE SIGNAL ;
+    - Red ( PIN Red ) ( _36_ Q ) + USE SIGNAL ;
+    - Yellow ( PIN Yellow ) ( _37_ Q ) + USE SIGNAL ;
+    - _00_ ( _38_ D ) ( _25_ A ) ( _18_ X ) + USE SIGNAL ;
+    - _01_ ( _36_ D ) ( _25_ Y ) + USE SIGNAL ;
+    - _02_ ( _38_ GATE_N ) ( _37_ GATE_N ) ( _36_ GATE_N ) ( _23_ X ) + USE SIGNAL ;
+    - _03_ ( _40_ GATE_N ) ( _39_ GATE_N ) ( _24_ Y ) + USE SIGNAL ;
+    - _04_ ( _34_ D ) ( _27_ X ) + USE SIGNAL ;
+    - _05_ ( _35_ D ) ( _29_ X ) + USE SIGNAL ;
+    - _06_ ( _41_ D ) ( _30_ Y ) + USE SIGNAL ;
+    - _07_ ( _42_ D ) ( _33_ X ) + USE SIGNAL ;
+    - _08_ ( _18_ A ) ( _17_ X ) + USE SIGNAL ;
+    - _09_ ( _20_ A ) ( _19_ X ) + USE SIGNAL ;
+    - _10_ ( _32_ B ) ( _24_ B1_N ) ( _23_ B1 ) ( _22_ Y ) + USE SIGNAL ;
+    - _11_ ( _27_ A ) ( _26_ X ) + USE SIGNAL ;
+    - _12_ ( _29_ A ) ( _28_ X ) + USE SIGNAL ;
+    - _13_ ( _32_ C ) ( _31_ X ) + USE SIGNAL ;
+    - _14_ ( _33_ A ) ( _32_ X ) + USE SIGNAL ;
+    - _15_ ( _40_ D ) ( _37_ D ) ( _25_ B ) ( _20_ X ) + USE SIGNAL ;
+    - _16_ ( _39_ D ) ( _21_ Y ) + USE SIGNAL ;
+    - clk ( PIN clk ) ( _42_ CLK ) ( _41_ CLK ) ( _35_ CLK ) ( _34_ CLK ) + USE SIGNAL ;
+    - count3\[0\] ( _41_ Q ) ( _31_ A ) ( _30_ A ) ( _22_ A ) + USE SIGNAL ;
+    - count3\[1\] ( _42_ Q ) ( _31_ B ) ( _22_ B ) + USE SIGNAL ;
+    - nextstate\[0\] ( _39_ Q ) ( _26_ B ) + USE SIGNAL ;
+    - nextstate\[1\] ( _40_ Q ) ( _28_ B ) + USE SIGNAL ;
+    - rst ( PIN rst ) ( _32_ A_N ) ( _30_ B ) ( _28_ A_N ) ( _26_ A_N ) + USE SIGNAL ;
+    - state\[0\] ( _34_ Q ) ( _24_ A2 ) ( _23_ A2 ) ( _21_ B ) ( _19_ B ) ( _17_ A_N ) + USE SIGNAL ;
+    - state\[1\] ( _35_ Q ) ( _24_ A1 ) ( _23_ A1 ) ( _21_ A ) ( _19_ A_N ) ( _17_ B ) + USE SIGNAL ;
+END NETS
+END DESIGN

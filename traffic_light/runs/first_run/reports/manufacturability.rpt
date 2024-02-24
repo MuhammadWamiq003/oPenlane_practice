@@ -1,0 +1,19 @@
+Design Name: light
+Run Directory: /openlane/designs/traffic_light/runs/first_run
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/traffic_light/runs/first_run/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/traffic_light/runs/first_run/logs/signoff/41-light.lef.lvs.log
+Number of nets: 38                         |Number of nets: 38                         
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/traffic_light/runs/first_run/logs/signoff/44-arc.log
+Pin violations: 0
+Net violations: 0

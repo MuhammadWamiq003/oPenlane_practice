@@ -1,0 +1,7 @@
+
+60. Executing CHECK pass (checking for obvious problems).
+Checking module light...
+Warning: Wire light.\Yellow is used but has no driver.
+Warning: Wire light.\Red is used but has no driver.
+Warning: Wire light.\Green is used but has no driver.
+Found and reported 3 problems.

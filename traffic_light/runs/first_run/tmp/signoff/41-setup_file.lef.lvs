@@ -1,0 +1,1 @@
+lvs {/openlane/designs/traffic_light/runs/first_run/results/signoff/light.spice light} {/openlane/designs/traffic_light/runs/first_run/tmp/signoff/38-light.pnl.v light} /home/wamiqkhan/.volare/sky130A/libs.tech/netgen/sky130A_setup.tcl /openlane/designs/traffic_light/runs/first_run/logs/signoff/41-light.lef.lvs.log -json

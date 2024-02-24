@@ -1,0 +1,5 @@
+ABC: Warning: Detected 2 multi-output gates (for example, "sky130_fd_sc_hd__fa_1").
+Warning: Wire light.\Yellow is used but has no driver.
+Warning: Wire light.\Red is used but has no driver.
+Warning: Wire light.\Green is used but has no driver.
+Warnings: 3 unique messages, 3 total

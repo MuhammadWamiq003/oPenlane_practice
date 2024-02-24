@@ -1,0 +1,26 @@
+
+61. Printing statistics.
+
+=== light ===
+
+   Number of wires:                 28
+   Number of wire bits:             28
+   Number of public wires:          11
+   Number of public wire bits:      11
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 26
+     sky130_fd_sc_hd__a21boi_2       1
+     sky130_fd_sc_hd__a21o_2         1
+     sky130_fd_sc_hd__and2b_2        4
+     sky130_fd_sc_hd__and3b_2        1
+     sky130_fd_sc_hd__buf_1          5
+     sky130_fd_sc_hd__dfxtp_2        4
+     sky130_fd_sc_hd__dlxtn_1        5
+     sky130_fd_sc_hd__nand2_2        1
+     sky130_fd_sc_hd__nor2_2         3
+     sky130_fd_sc_hd__or2_2          1
+
+   Chip area for module '\light': 275.264000
+

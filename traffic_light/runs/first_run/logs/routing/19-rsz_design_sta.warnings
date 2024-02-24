@@ -1,0 +1,4 @@
+[WARNING GRT-0026] Missing route to pin input1/X.
+Warning: There are 5 unclocked register/latch pins.
+Warning: There are 8 unconstrained endpoints.
+[WARNING] Did not save OpenROAD database!
