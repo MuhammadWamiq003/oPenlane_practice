@@ -1,0 +1,291 @@
+
+Magic 8.3 revision 416 - Compiled on Tue Jul 25 11:03:51 UTC 2023.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Processing system .magicrc file
+Sourcing design .magicrc for technology sky130A ...
+2 Magic internal units = 1 Lambda
+Input style sky130(): scaleFactor=2, multiplier=2
+The following types are not handled by extraction and will be treated as non-electrical types:
+    ubm 
+Scaled tech values by 2 / 1 to match internal grid scaling
+Loading sky130A Device Generator Menu ...
+Using technology "sky130A", version 1.0.461-0-gcd1748b
+Reading LEF data from file /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef.
+This action cannot be undone.
+LEF read, Line 78 (Message): Unknown keyword "ANTENNAMODEL" in LEF file; ignoring.
+LEF read, Line 79 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF read, Line 112 (Message): Unknown keyword "MINENCLOSEDAREA" in LEF file; ignoring.
+LEF read, Line 114 (Message): Unknown keyword "ANTENNAMODEL" in LEF file; ignoring.
+LEF read, Line 115 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF read, Line 121 (Message): Unknown keyword "MAXIMUMDENSITY" in LEF file; ignoring.
+LEF read, Line 122 (Message): Unknown keyword "DENSITYCHECKWINDOW" in LEF file; ignoring.
+LEF read, Line 123 (Message): Unknown keyword "DENSITYCHECKSTEP" in LEF file; ignoring.
+LEF read, Line 156 (Message): Unknown keyword "MINENCLOSEDAREA" in LEF file; ignoring.
+LEF read, Line 164 (Message): Unknown keyword "ANTENNAMODEL" in LEF file; ignoring.
+LEF read, Line 165 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF read, Line 167 (Message): Unknown keyword "MAXIMUMDENSITY" in LEF file; ignoring.
+LEF read, Line 168 (Message): Unknown keyword "DENSITYCHECKWINDOW" in LEF file; ignoring.
+LEF read, Line 169 (Message): Unknown keyword "DENSITYCHECKSTEP" in LEF file; ignoring.
+LEF read, Line 206 (Message): Unknown keyword "ANTENNAMODEL" in LEF file; ignoring.
+LEF read, Line 207 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF read, Line 209 (Message): Unknown keyword "MAXIMUMDENSITY" in LEF file; ignoring.
+LEF read, Line 210 (Message): Unknown keyword "DENSITYCHECKWINDOW" in LEF file; ignoring.
+LEF read, Line 211 (Message): Unknown keyword "DENSITYCHECKSTEP" in LEF file; ignoring.
+LEF read, Line 248 (Message): Unknown keyword "ANTENNAMODEL" in LEF file; ignoring.
+LEF read, Line 249 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF read, Line 251 (Message): Unknown keyword "MAXIMUMDENSITY" in LEF file; ignoring.
+LEF read, Line 252 (Message): Unknown keyword "DENSITYCHECKWINDOW" in LEF file; ignoring.
+LEF read, Line 253 (Message): Unknown keyword "DENSITYCHECKSTEP" in LEF file; ignoring.
+LEF read, Line 290 (Message): Unknown keyword "ANTENNAMODEL" in LEF file; ignoring.
+LEF read, Line 291 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF read: Processed 797 lines.
+Reading DEF data from file /openlane/designs/ram_8x72/runs/first_run/results/routing/dff_ram_8x72.def.
+This action cannot be undone.
+  Processed 4 vias total.
+Cell sky130_fd_sc_hd__diode_2 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__decap_6 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__fill_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__decap_8 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_ef_sc_hd__decap_12 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__decap_3 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__fill_2 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__decap_4 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__tapvpwrvgnd_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__dlymetal6s2s_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__buf_2 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__mux2_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__clkbuf_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__buf_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__clkbuf_4 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__clkbuf_2 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__and2b_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__and3b_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__or4_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__or2b_2 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__a21o_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__nor2_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__and3_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__a221o_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__o22a_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__and2_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__a22o_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__buf_4 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__mux4_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__o32a_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__nand2_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__or3b_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__and4bb_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__or4b_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__dfxtp_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__clkbuf_16 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__clkbuf_8 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Cell sky130_fd_sc_hd__dlygate4sd3_1 read from path /home/wamiqkhan/.volare/sky130A/libs.ref/sky130_fd_sc_hd/mag
+  Processed 8111 subcell instances total.
+  Processed 151 pins total.
+  Processed 2 special nets total.
+  Processed 3964 nets total.
+DEF read: Processed 61929 lines.
+Moving label "_0001_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0005_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0010_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0013_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0014_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_0019_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0020_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0031_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0033_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0034_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0035_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0058_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0060_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_0082_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0089_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0090_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_0092_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0093_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0096_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0098_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0104_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0109_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0112_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0113_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0153_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0187_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_0233_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0265_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0280_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0282_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0284_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0287_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0300_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0324_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0346_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0353_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0366_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0372_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0373_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0375_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0377_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0385_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0390_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0396_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0403_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0408_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0414_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0429_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0433_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0437_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0443_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0453_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_0464_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_0466_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_0471_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0473_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0483_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0485_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0486_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0500_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0527_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0533_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0547_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0550_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0553_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0579_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0581_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0595_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0599_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_0608_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0609_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0642_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0649_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0652_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0668_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0674_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0675_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0687_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0691_" from metal2 to via1 in cell dff_ram_8x72.
+Moving label "_0701_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_0702_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0704_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_0956_" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "_0996_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_1037_" from metal3 to via3 in cell dff_ram_8x72.
+Moving label "_1064_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_1101_" from metal2 to via1 in cell dff_ram_8x72.
+Moving label "_1106_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_1144_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_1270_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_1315_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_1339_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_1346_" from metal2 to via1 in cell dff_ram_8x72.
+Moving label "_1350_" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "_1364_" from metal3 to via3 in cell dff_ram_8x72.
+Moving label "_1385_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_1401_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "_1924_" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "_1978_" from metal1 to viali in cell dff_ram_8x72.
+Moving label "_1983_" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "clknet_0_clk" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[0\]\[17\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[0\]\[52\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[0\]\[64\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[0\]\[71\]" from metal1 to viali in cell dff_ram_8x72.
+Moving label "instance_0.mem\[1\]\[51\]" from metal1 to viali in cell dff_ram_8x72.
+Moving label "instance_0.mem\[1\]\[66\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[2\]\[14\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[2\]\[28\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[2\]\[30\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[2\]\[35\]" from metal1 to viali in cell dff_ram_8x72.
+Moving label "instance_0.mem\[2\]\[54\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[2\]\[56\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[2\]\[68\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[2\]\[9\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[3\]\[29\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_0.mem\[3\]\[31\]" from metal1 to viali in cell dff_ram_8x72.
+Moving label "instance_0.rdata\[20\]" from metal1 to viali in cell dff_ram_8x72.
+Moving label "instance_0.rdata\[5\]" from metal2 to via1 in cell dff_ram_8x72.
+Moving label "instance_1.mem\[1\]\[64\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_1.mem\[2\]\[30\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_1.mem\[2\]\[52\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "instance_1.mem\[3\]\[27\]" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net1" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "net112" from metal3 to via3 in cell dff_ram_8x72.
+Moving label "net168" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net170" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net182" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net192" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net2" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "net202" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net242" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net246" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net262" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net264" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net268" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net274" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net288" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net296" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net3" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "net300" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net302" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net304" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net34" from metal3 to via3 in cell dff_ram_8x72.
+Moving label "net342" from metal1 to viali in cell dff_ram_8x72.
+Moving label "net350" from metal1 to via1 in cell dff_ram_8x72.
+Moving label "net457" from metal1 to viali in cell dff_ram_8x72.
+Moving label "net574" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "net59" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "net71" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "net805" from metal2 to via1 in cell dff_ram_8x72.
+Moving label "net822" from metal1 to viali in cell dff_ram_8x72.
+Moving label "net942" from metal2 to via1 in cell dff_ram_8x72.
+Moving label "rdata[29]" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "rdata[9]" from metal2 to via2 in cell dff_ram_8x72.
+Moving label "wdata[13]" from metal1 to viali in cell dff_ram_8x72.
+Root cell box:
+           width x height  (   llx,  lly  ), (   urx,  ury  )  area (units^2)
+
+microns:  261.370 x 272.090  ( 0.000,  0.000), ( 261.370,  272.090)  71116.164 
+lambda:   26137.00 x 27209.00  (  0.00,  0.00 ), ( 26137.00,  27209.00)  711161664.00
+internal:  52274 x 54418   (     0,  0    ), ( 52274,  54418)  2844646532
+   Generating output for cell sky130_ef_sc_hd__decap_12
+   Generating output for cell sky130_fd_sc_hd__decap_3
+   Generating output for cell sky130_fd_sc_hd__fill_1
+   Generating output for cell sky130_fd_sc_hd__tapvpwrvgnd_1
+   Generating output for cell sky130_fd_sc_hd__decap_4
+   Generating output for cell sky130_fd_sc_hd__decap_8
+   Generating output for cell sky130_fd_sc_hd__decap_6
+   Generating output for cell sky130_fd_sc_hd__fill_2
+   Generating output for cell sky130_fd_sc_hd__buf_1
+   Generating output for cell sky130_fd_sc_hd__clkbuf_4
+   Generating output for cell sky130_fd_sc_hd__dfxtp_1
+   Generating output for cell sky130_fd_sc_hd__mux2_1
+   Generating output for cell sky130_fd_sc_hd__dlygate4sd3_1
+   Generating output for cell sky130_fd_sc_hd__clkbuf_1
+   Generating output for cell sky130_fd_sc_hd__diode_2
+   Generating output for cell sky130_fd_sc_hd__mux4_1
+   Generating output for cell sky130_fd_sc_hd__dlymetal6s2s_1
+   Generating output for cell sky130_fd_sc_hd__clkbuf_8
+   Generating output for cell sky130_fd_sc_hd__clkbuf_2
+   Generating output for cell sky130_fd_sc_hd__and3_1
+   Generating output for cell sky130_fd_sc_hd__a221o_1
+   Generating output for cell sky130_fd_sc_hd__o22a_1
+   Generating output for cell sky130_fd_sc_hd__a21o_1
+   Generating output for cell sky130_fd_sc_hd__a22o_1
+   Generating output for cell sky130_fd_sc_hd__o32a_1
+   Generating output for cell sky130_fd_sc_hd__buf_2
+   Generating output for cell sky130_fd_sc_hd__and2_1
+   Generating output for cell sky130_fd_sc_hd__clkbuf_16
+   Generating output for cell sky130_fd_sc_hd__buf_4
+   Generating output for cell sky130_fd_sc_hd__or3b_1
+   Generating output for cell sky130_fd_sc_hd__and2b_1
+   Generating output for cell sky130_fd_sc_hd__and4bb_1
+   Generating output for cell sky130_fd_sc_hd__or4_1
+   Generating output for cell sky130_fd_sc_hd__nor2_1
+   Generating output for cell sky130_fd_sc_hd__or4b_1
+   Generating output for cell sky130_fd_sc_hd__and3b_1
+   Generating output for cell sky130_fd_sc_hd__or2b_2
+   Generating output for cell sky130_fd_sc_hd__nand2_1
+   Generating output for cell dff_ram_8x72
+[INFO]: GDS Write Complete

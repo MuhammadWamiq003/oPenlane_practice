@@ -1,0 +1,9 @@
+{
+    "DESIGN_NAME": "dff_ram_8x72",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10.0,
+    "CLOCK_BUFFER_FANOUT": 16,
+    "MAX_FANOUT_CONSTRAINT": 6,
+    "FP_PDN_MULTILAYER": true
+}

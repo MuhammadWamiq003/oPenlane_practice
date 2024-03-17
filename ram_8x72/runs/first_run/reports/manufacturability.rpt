@@ -1,0 +1,19 @@
+Design Name: dff_ram_8x72
+Run Directory: /openlane/designs/ram_8x72/runs/first_run
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/ram_8x72/runs/first_run/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/ram_8x72/runs/first_run/logs/signoff/41-dff_ram_8x72.lef.lvs.log
+Number of nets: 3966                       |Number of nets: 3966                       
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/ram_8x72/runs/first_run/logs/signoff/44-arc.log
+Pin violations: 1
+Net violations: 1
